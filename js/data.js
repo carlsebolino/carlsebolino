@@ -2,7 +2,7 @@ const main = {
   name: 'Carl Sebolino',
   mail: 'carlsebolino@gmail.com',
   img: 'img/profile.jpg',
-  role: ['A Mediocre Software Developer'],
+  role: ['Web developer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
