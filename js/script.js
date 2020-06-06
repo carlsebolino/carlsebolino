@@ -47,7 +47,7 @@ assignDOM(dom.main.role(), main.role);
 const connectsDOM = main.connects
   .map(
     ({ name, iconName, link }) =>
-      `<a href=${link} target="_blank"><ion-icon name="${iconName}" title="${name}"></ion-icon></a>`
+      `<a href=${link} target="_blank" rel="noopener noreferrer"><ion-icon name="${iconName}" title="${name}"></ion-icon></a>`
   )
   .join('\n');
 assignDOM(dom.main.connects(), connectsDOM);
