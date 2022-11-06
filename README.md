@@ -1,41 +1,21 @@
-![Welcome to my GitHub profile.](https://github.com/carlsebolino/carlsebolino/blob/master/img/primary_weapons.jpg)
+<!-- ![Welcome to my GitHub profile.](https://raw.githubusercontent.com/carlsebolino/carlsebolino/blob/master/img/primary_weapons.jpg) -->
+<img src="./img/primary_weapons.jpg" width="auto" height="auto">
 # Carl Sebolino
 
 Hardworking, passionate software developer experienced in developing and maintaining web applications. Capable of working with variety of technology and software solutions, and managing databases. Motivated to learn and apply new skills. Comfortable collaborating in team environments.
 
+## Programming Languages
+<img src="./pl.svg" width="auto" height="auto">
 
-## Skills
-### Programming Languages
-- HTML5
-- CSS3
-- PHP
-- JavaScript
-- Python
-- SQL
-- Xojo
+## Development Tools
+<img src="./dt.svg" width="auto" height="auto">
 
-### Development Tools
-- Visual Studio Code
-- Github
-- SourceTree
-- TablePlus
-- Jira
-- DBeaver
-- Postman
-- Docker
-- iTerm
-- Git
+## Database(s)
+<img src="./dbs.svg" width="auto" height="auto">
 
-### Database(s)
-- MySQL
+## Libraries / Frameworks
+<img src="./lf.svg" width="auto" height="auto">
 
-### Libraries / Frameworks
-- Bootstrap CSS framework
-- VueJS
-- FastAPI
-- SQLAlchemy
-- Flask
-- Django
 
 - 🔭 I’m currently working on several Django projects
 - 🌱 I’m currently learning DevOps
