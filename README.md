@@ -1,6 +1,9 @@
 <img src="./img/header1.jpg" width="auto" height="auto">
 
+<div align='center'>
+
 # Carl Sebolino
+</div>
 Hardworking, passionate software developer experienced in developing and maintaining web applications. Capable of working with variety of technology and software solutions, and managing databases. Motivated to learn and apply new skills. Comfortable collaborating in team environments.
 
 ## Skills
@@ -11,7 +14,6 @@ Hardworking, passionate software developer experienced in developing and maintai
 **Development Tools**
 
 <img src="./dt.svg" width="auto" height="auto">
-
 
 **Database(s)**
 
