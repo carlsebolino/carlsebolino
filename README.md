@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Carl.
 #### Welcome to my GitHub profile.
-![Welcome to my GitHub profile.](https://carlsebolino/carlsebolino/img/primary_weapons.jpg)
+![Welcome to my GitHub profile.](https://carlsebolino/carlsebolino/blob/img/primary_weapons.jpg)
 
 Hardworking, passionate software developer experienced in developing and maintaining web applications. Capable of working with variety of technology and software solutions, and managing databases. Motivated to learn and apply new skills. Comfortable collaborating in team environments.
 
