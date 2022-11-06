@@ -1,29 +1,39 @@
-# Hi there 👋, my name is Carl.
-## Welcome to my GitHub profile.
-![Welcome to my GitHub profile.](https://github.com/carlsebolino/carlsebolino/blob/img/primary_weapons.jpg)
+![Welcome to my GitHub profile.](https://github.com/carlsebolino/carlsebolino/blob/master/img/primary_weapons.jpg)
+# Carl Sebolino
 
 Hardworking, passionate software developer experienced in developing and maintaining web applications. Capable of working with variety of technology and software solutions, and managing databases. Motivated to learn and apply new skills. Comfortable collaborating in team environments.
 
 
 ## Skills
 ### Programming Languages
-- HTML5        - JavaScript     - Xojo
-- CSS3         - Python
-- PHP          - SQL
+- HTML5
+- CSS3
+- PHP
+- JavaScript
+- Python
+- SQL
+- Xojo
 
 ### Development Tools
-- Visual Studio Code   - Github
-- SourceTree           - TablePlus
-- Jira                 - DBeaver
-- Postman              - Docker
-- iTerm                - Git
+- Visual Studio Code
+- Github
+- SourceTree
+- TablePlus
+- Jira
+- DBeaver
+- Postman
+- Docker
+- iTerm
+- Git
 
 ### Database(s)
 - MySQL
 
 ### Libraries / Frameworks
-- Bootstrap CSS framework       - FastAPI
-- VueJS                         - SQLAlchemy
+- Bootstrap CSS framework
+- VueJS
+- FastAPI
+- SQLAlchemy
 - Flask
 - Django
 
