@@ -10,9 +10,9 @@
 </div>
 Hardworking, passionate software developer experienced in developing and maintaining web applications. Capable of working with variety of technologies and software solutions, and managing databases. Motivated to learn and apply new skills. Comfortable collaborating in team environments.
 
-- 🔭 I’m currently working on several Django projects
-- 🌱 I’m currently learning DevOps
-- 📫 How to reach me: carlsebolino.dev@gmail.com
+- 🔭 I’m currently working on several Django / Flask projects.
+- 🌱 Constantly learning to develop software.
+- 📫 carlsebolino.dev@gmail.com
 
 ## 🛠️ Tools and technologies I use:
 
